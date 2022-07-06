@@ -1,0 +1,140 @@
+ [
+    {
+        "plan": "Free",
+        "price": 0,
+        "description" :[
+            {
+                "icon": "fa fa-check",
+                "text": "Single User",
+                "visiblityClass" : "text"
+            },
+            {
+                "icon": "fa fa-check",
+                "text": "5GB Storage",
+                "visiblityClass" : "text"
+            },
+            {
+                "icon": "fa fa-check",
+                "text": "Unlimited Public Projects",
+                "visiblityClass" : "text"
+            },
+            {
+                "icon": "fa fa-check",
+                "text": "Community Access",
+                "visiblityClass" : "text"
+            },
+            {
+                "icon": "fa fa-times",
+                "text": "Unlimited Private Projects",
+                "visiblityClass" : "text-muted"
+            },
+            {
+                "icon": "fa fa-times",
+                "text": "Dedicated Phone Support",
+                "visiblityClass" : "text-muted"
+            },
+            {
+                "icon": "fa fa-times",
+                "text": "Free Subdomain",
+                "visiblityClass" : "text-muted"
+            },
+            {
+                "icon": "fa fa-times",
+                "text": "Monthly Status Reports",
+                "visiblityClass" : "text-muted"
+            }
+        ]
+    },
+    {
+        "plan": "Plus",
+        "price": 9,
+        "description" :[
+            {
+                "icon": "fa fa-check",
+                "text": "5 Users",
+                "visiblityClass" : "fw-bold text"
+            },
+            {
+                "icon": "fa fa-check",
+                "text": "50GB Storage",
+                "visiblityClass" : "text"
+            },
+            {
+                "icon": "fa fa-check",
+                "text": "Unlimited Public Projects",
+                "visiblityClass" : "text"
+            },
+            {
+                "icon": "fa fa-check",
+                "text": "Community Access",
+                "visiblityClass" : "text"
+            },
+            {
+                "icon": "fa fa-check",
+                "text": "Unlimited Private Projects",
+                "visiblityClass" : "text"
+            },
+            {
+                "icon": "fa fa-check",
+                "text": "Dedicated Phone Support",
+                "visiblityClass" : "text"
+            },
+            {
+                "icon": "fa fa-check",
+                "text": "Free Subdomain",
+                "visiblityClass" : "text"
+            },
+            {
+                "icon": "fa fa-times",
+                "text": "Monthly Status Reports",
+                "visiblityClass" : "text-muted"
+            }
+        ]
+    },
+    {
+        "plan": "PRO",
+        "price": 49,
+        "description" :[
+        {
+            "icon": "fa fa-check",
+            "text": "Unlimited Users",
+            "visiblityClass" : "fw-bold text"
+        },
+        {
+            "icon": "fa fa-check",
+            "text": "150GB Storage",
+            "visiblityClass" : "text"
+        },
+        {
+            "icon": "fa fa-check",
+            "text": "Unlimited Public Projects",
+            "visiblityClass": "text"
+        },
+        {
+            "icon": "fa fa-check",
+            "text": "Community Access",
+            "visiblityClass": "text"
+        },
+        {
+            "icon": "fa fa-check",
+            "text": "Unlimited Private Projects",
+            "visiblityClass": "text"
+        },
+        {
+            "icon": "fa fa-check",
+            "text": "Dedicated Phone Support",
+            "visiblityClass": "text"
+        },
+        {
+            "icon": "fa fa-check",
+            "text": "Unlimited Free Subdomains",
+            "visiblityClass": "fw-bold text"
+        },
+        {
+            "icon": "fa fa-check",
+            "text": "Monthly Status Reports",
+            "visiblityClass": "text"
+        }
+    ]
+    }
+]
